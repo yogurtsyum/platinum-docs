@@ -42,7 +42,9 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 **General Bot Commands**
 
-`help` - Displays some bot information such as a link to this command page and a link to invite the bot.
+`help` - Displays some bot information such as the command list command, the link to this page, the link to invite the bot, and an invite link to the support server.
+
+`cmds` - Lists all of the bot commands in Discord. Not as detailed as this page.
 
 `prefix [prefix]` - Sets the server prefix. Leave empty to view the current server prefix.
 
