@@ -40,6 +40,10 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 `toggle-tag-embed <true/false>` - Toggles tags being displayed in embeds.
 
+**Anti Hoist \(English Only\)**
+
+`toggle-anti-hoist` - Toggles anti hoist.
+
 **General Bot Commands**
 
 `help` - Displays some bot information such as the command list command, the link to this page, the link to invite the bot, and an invite link to the support server.
