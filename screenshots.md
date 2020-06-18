@@ -25,7 +25,5 @@ Tags solves the problem of requiring your Staff team to type out the same copied
 
 All bot commands and features are documented on the support website here. Check out there bot commands page through the sidebar to see the configuration commands.
 
-**Anti Hoist \(English Only\)**
-
 \*\*\*\*
 
