@@ -6,6 +6,7 @@ Platinum is a unique modular bot that brings essential and detailed features to 
 ## Modules
 
 <ins>Anti Hoist</ins> prevents people from stealing the top spot on your member list by adding a special character to the start of their name.   
+![](https://i.lengo.dev/B3deEb4)   
 
 <ins>Server Verification</ins> lets you protect your server with a powerful server verification module that uses the Text Captcha API. It even makes it fun to verify!   
 ![](https://i.lengo.dev/L0FtPYk)   
