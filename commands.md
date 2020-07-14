@@ -40,5 +40,5 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 `prefix [prefix]` - Sets the server prefix. Leave empty to view the current server prefix.
 
-`cmds` - Shows the setup wizards you can launch.
+`setup` - Shows the setup wizards you can launch.
 
