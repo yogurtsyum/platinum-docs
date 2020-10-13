@@ -32,6 +32,19 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 `setup antihoist` - Launches the setup wizard for anti hoist.
 
+**Suggestions**
+
+`suggest <suggestion>` - Makes a suggestion in the server suggestion channel.
+
+`approve <message id> <reason>` - Marks a suggestion as approved in the server suggestion channel.
+
+`deny <id> <reason>` - Marks a suggestion as denied in the server suggestion channel..
+
+`invalid <message id> <reason>` - Marks a suggestion as invalid in the server suggestion channel.
+
+`maybe <message id> <reason>` - Marks a suggestion as potential in the server suggestion channel.
+
+`setup suggestions` - Launches the setup wizard for suggestions.
 **General Bot Commands**
 
 `help` - Displays some bot information such as the command list command, the link to this page, the link to invite the bot, and an invite link to the support server.
