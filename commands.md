@@ -26,11 +26,27 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 `tag <tag>` - Displays a tag.
 
- `setup tags` - Launches the setup wizard for tags.
+`<tag>` - Displays a tag.
+
+`setup tags` - Launches the setup wizard for tags.
 
 **Anti Hoist \(English Only\)**
 
 `setup antihoist` - Launches the setup wizard for anti hoist.
+
+**Suggestions**
+
+`setup suggestions` - Launches the setup wizard for suggestions.
+
+`suggest <suggestion>` - Submits a suggestion to the suggestion channel.
+
+`approve <message id> <reason>` - Marks a suggestion as approved.
+
+`deny <message id> <reason>` - Marks a suggestion as denied.
+
+`potential <message id> <reason>` - Marks a suggestion as potential.
+
+`invalid <message id> <reason>` - Marks a suggestion as invalid.
 
 **General Bot Commands**
 
