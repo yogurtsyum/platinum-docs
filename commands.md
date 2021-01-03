@@ -10,7 +10,7 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 **Tickets**
 
-`new [ticket topic]` - Creates a ticket on the server if tickets are enabled.
+`new (member) [ticket topic]` - Creates a ticket on the server if tickets are enabled. If a member argument is supplied, the ticket is created for that member. 
 
 `add <member>` - Adds someone to a ticket. 
 
