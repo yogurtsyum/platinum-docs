@@ -10,7 +10,11 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 **Tickets**
 
-`new [ticket topic]` - Creates a ticket on the server if tickets are enabled.
+`new (member) [ticket topic]` - Creates a ticket on the server if tickets are enabled. If a member argument is supplied, the ticket is created for that member. 
+
+`add <member>` - Adds someone to a ticket. 
+
+`remove <member>` - Removes someone from a ticket. 
 
 `setup tickets` - Launches the setup wizard for tickets.
 
@@ -36,8 +40,6 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 **Suggestions**
 
-`setup suggestions` - Launches the setup wizard for suggestions.
-
 `suggest <suggestion>` - Submits a suggestion to the suggestion channel.
 
 `approve <message id> <reason>` - Marks a suggestion as approved.
@@ -48,6 +50,20 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 `invalid <message id> <reason>` - Marks a suggestion as invalid.
 
+`setup suggestions` - Launches the setup wizard for suggestions.
+
+**Starboard**
+
+`setup starboard` - Launches the setup wizard for starboard. 
+
+**Twitch**
+
+`twitch follow <twitchChannel> <discordChannel> <embed> <message>` - Lets you follow a twitch channel.
+
+`twitch unfollow <twitchChannel>` - Unfollows a twitch channel.
+
+`twitch list` - Lists all the channels you followed.
+
 **General Bot Commands**
 
 `help` - Displays some bot information such as the command list command, the link to this page, the link to invite the bot, and an invite link to the support server.
@@ -57,4 +73,6 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 `prefix [prefix]` - Sets the server prefix. Leave empty to view the current server prefix.
 
 `setup` - Shows the setup wizards you can launch.
+
+`uptime` - Shows uptime of the bot.
 
