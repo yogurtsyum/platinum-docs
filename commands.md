@@ -56,14 +56,6 @@ The default bot prefix is `?`. Forgot the prefix? `@Platinum#1240` \(mentioning 
 
 `setup starboard` - Launches the setup wizard for starboard. 
 
-**Twitch**
-
-`twitch follow <twitchChannel> <discordChannel> <embed> <message>` - Lets you follow a twitch channel.
-
-`twitch unfollow <twitchChannel>` - Unfollows a twitch channel.
-
-`twitch list` - Lists all the channels you followed.
-
 **General Bot Commands**
 
 `help` - Displays some bot information such as the command list command, the link to this page, the link to invite the bot, and an invite link to the support server.
